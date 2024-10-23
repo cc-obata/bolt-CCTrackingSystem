@@ -1,0 +1,16 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 1433,
+    "name": "tracking_db",
+    "user": "sa",
+    "password": "YourStrong@Passw0rd",
+    "options": {
+      "encrypt": true,
+      "trustServerCertificate": true
+    }
+  },
+  "server": {
+    "port": 3000
+  }
+}
